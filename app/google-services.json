@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "350811543133",
+    "firebase_url": "https://praveen-galaxy.firebaseio.com",
+    "project_id": "praveen-galaxy",
+    "storage_bucket": "praveen-galaxy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350811543133:android:1a4467d62f50c7c1d41fb4",
+        "android_client_info": {
+          "package_name": "com.vegabond.pkgalaxy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350811543133-ogkk8b3kcfivi007gea1sq96as0gml72.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vegabond.pkgalaxy",
+            "certificate_hash": "af60f3fe6972497ef71e21cb0ed6e87becbcad73"
+          }
+        },
+        {
+          "client_id": "350811543133-ijsqdn0sj5ho3l6lt9g7friinbju11gp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9md5CKzSeEoaUjzgjqCXligHA85fBv8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350811543133-ijsqdn0sj5ho3l6lt9g7friinbju11gp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
